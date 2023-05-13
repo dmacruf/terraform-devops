@@ -1,7 +1,7 @@
 *.tfstate
 *.terraform
 *.lock
-*.terraform.tfstate.backup
-*.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.lock.hcl
 git/
 .terraform/
